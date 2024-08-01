@@ -4,3 +4,4 @@ langchain
 chromadb-client 
 langchain_community
 pytest
+bs4
